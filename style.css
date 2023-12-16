@@ -304,13 +304,13 @@ section {
 }
 
 .section-container {
-  gap: 4rem;
+  gap: 2rem;
   height: 80%;
 }
 
 .section__pic-container {
-  height: 350px;
-  width: 350px;
+  height: 400px;
+  width: 400px;
   margin: auto 0;
 }
 
