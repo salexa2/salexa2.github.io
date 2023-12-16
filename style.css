@@ -284,7 +284,7 @@ section {
 }
 
 .about-pic {
-  border-radius: 2rem;
+  border-radius: rem;
 }
 
 .arrow {
@@ -294,7 +294,7 @@ section {
 }
 
 .details-container {
-  padding: 4rem;
+  padding: 1.5rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
@@ -309,8 +309,8 @@ section {
 }
 
 .section__pic-container {
-  height: 400px;
-  width: 400px;
+  height: 350px;
+  width: 350px;
   margin: auto 0;
 }
 
