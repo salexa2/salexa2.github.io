@@ -231,12 +231,17 @@ img {
     width: 260px;
 }
 
-.home__blob {
-    fill: var(--first-color);
+.home__red-circle {
+    position: absolute;
+    top: 50%;
+    right: 50px; /* Adjust this value to position the circle as needed */
+    transform: translate(0%, -50%);
 }
 
-.home__blob-img {
-    width: 360px;
+.home__red-circle img {
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Ensure the image is a circle */
 }
 
 /*BUTTONS*/
