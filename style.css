@@ -284,8 +284,9 @@ section {
 }
 
 .about-pic {
-  border-radius: 50rem;
-  
+  border-radius: 2rem;
+  position: absolute;
+  left: -5rem;
 }
 
 .arrow {
